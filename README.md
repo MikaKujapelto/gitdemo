@@ -12,6 +12,8 @@ By the way, markdown is used by some CMS as well like Grav and Ghost...
 
 ### Prerequisities - Heading III
 
+Lisäsin tähän tekstiä.
+
 With Mac everything is a bit easier. Windows users have to first install git [https://git-scm.com/downloads](https://git-scm.com/downloads) or [https://git-for-windows.github.io/](https://git-for-windows.github.io/)
 
 ## Something to list
