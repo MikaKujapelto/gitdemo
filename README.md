@@ -16,6 +16,6 @@ With Mac everything is a bit easier. Windows users have to first install git [ht
 
 ## Something to list
 
-* Bla bla bla
+* Tähän tuli uusi teksti.
 * Bla bla bla
 * Bla bla bla
